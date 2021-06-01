@@ -245,7 +245,6 @@ p.footer-class a:hover{
 	visibility:visible;
 }
 .b-from-left{
-	display: flex; justify-content: center; align-items: center;
 	position: relative;
 	left: -100%;
 	background:rgba(45, 184, 183, 0.81);
